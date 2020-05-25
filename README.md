@@ -1,8 +1,8 @@
 # Data Science Lecture
 
 This repository contains content of my lecture in data science.
-The focus is on using algorithms, since the students learn the theory in another part of the lecture.
-The target audience are bachelor of science students in industrial engineering.
+The focus is on using algorithms (you know, the fun stuff), since the students learn the theory in the first part of the lecture.
+The target audience are bachelor of science students in industrial engineering, and computer science to some extent.
 
 ## Content
 
