@@ -10,6 +10,7 @@ The target audience are bachelor of science students in industrial engineering, 
 - Association Analysis
 - Classification
 - Clustering
+- [Further Readings](./FurtherReadings.md)
 
 ## School
 
