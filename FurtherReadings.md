@@ -1,5 +1,9 @@
 # Further Readings on Data Science
 
+## Dataviz
+
+- [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz/)
+
 ## Multimedia
 
 - [Hanselminutes by Scott Hanselman: Is it the Data or the Algorithm? Common pitfalls in Data Science and Deep Learning with Sara Beck (Podcast Episode 705)](https://hanselminutes.com/705/is-it-the-data-or-the-algorithm-common-pitfalls-in-data-science-and-deep-learning-with-sar)
