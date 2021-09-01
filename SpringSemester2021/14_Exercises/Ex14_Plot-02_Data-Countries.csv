@@ -1,0 +1,260 @@
+Continent_Name,Continent_Code,Country_Name,Two_Letter_Country_Code,Three_Letter_Country_Code,Country_Number
+Asia,AS,Afghanistan,AF,AFG,4.0
+Europe,EU,Albania,AL,ALB,8.0
+Antarctica,AN,Antarctica (the territory South of 60 deg S),AQ,ATA,10.0
+Africa,AF,Algeria,DZ,DZA,12.0
+Oceania,OC,American Samoa,AS,ASM,16.0
+Europe,EU,Andorra,AD,AND,20.0
+Africa,AF,Angola,AO,AGO,24.0
+North America,,Antigua and Barbuda,AG,ATG,28.0
+Europe,EU,Azerbaijan,AZ,AZE,31.0
+Asia,AS,Azerbaijan,AZ,AZE,31.0
+South America,SA,Argentina,AR,ARG,32.0
+Oceania,OC,Australia,AU,AUS,36.0
+Europe,EU,Austria,AT,AUT,40.0
+North America,,Bahamas,BS,BHS,44.0
+Asia,AS,Bahrain,BH,BHR,48.0
+Asia,AS,Bangladesh,BD,BGD,50.0
+Europe,EU,Armenia,AM,ARM,51.0
+Asia,AS,Armenia,AM,ARM,51.0
+North America,,Barbados,BB,BRB,52.0
+Europe,EU,Belgium,BE,BEL,56.0
+North America,,Bermuda,BM,BMU,60.0
+Asia,AS,Bhutan,BT,BTN,64.0
+South America,SA,Bolivia,BO,BOL,68.0
+Europe,EU,Bosnia and Herzegovina,BA,BIH,70.0
+Africa,AF,Botswana,BW,BWA,72.0
+Antarctica,AN,Bouvet Island (Bouvetoya),BV,BVT,74.0
+South America,SA,Brazil,BR,BRA,76.0
+North America,,Belize,BZ,BLZ,84.0
+Asia,AS,British Indian Ocean Territory (Chagos Archipelago),IO,IOT,86.0
+Oceania,OC,Solomon Islands,SB,SLB,90.0
+North America,,British Virgin Islands,VG,VGB,92.0
+Asia,AS,Brunei,BN,BRN,96.0
+Europe,EU,Bulgaria,BG,BGR,100.0
+Asia,AS,Myanmar,MM,MMR,104.0
+Africa,AF,Burundi,BI,BDI,108.0
+Europe,EU,Belarus,BY,BLR,112.0
+Asia,AS,Cambodia,KH,KHM,116.0
+Africa,AF,Cameroon,CM,CMR,120.0
+North America,,Canada,CA,CAN,124.0
+Africa,AF,Cape Verde,CV,CPV,132.0
+North America,,Cayman Islands,KY,CYM,136.0
+Africa,AF,Central African Republic,CF,CAF,140.0
+Asia,AS,Sri Lanka,LK,LKA,144.0
+Africa,AF,Chad,TD,TCD,148.0
+South America,SA,Chile,CL,CHL,152.0
+Asia,AS,China,CN,CHN,156.0
+Asia,AS,Taiwan,TW,TWN,158.0
+Asia,AS,Christmas Island,CX,CXR,162.0
+Asia,AS,Cocos (Keeling) Islands,CC,CCK,166.0
+South America,SA,Colombia,CO,COL,170.0
+Africa,AF,Comoros,KM,COM,174.0
+Africa,AF,Mayotte,YT,MYT,175.0
+Africa,AF,Congo,CG,COG,178.0
+Africa,AF,Congo,CD,COD,180.0
+Oceania,OC,Cook Islands,CK,COK,184.0
+North America,,Costa Rica,CR,CRI,188.0
+Europe,EU,Croatia,HR,HRV,191.0
+North America,,Cuba,CU,CUB,192.0
+Europe,EU,Cyprus,CY,CYP,196.0
+Asia,AS,Cyprus,CY,CYP,196.0
+Europe,EU,Czech Republic,CZ,CZE,203.0
+Africa,AF,Benin,BJ,BEN,204.0
+Europe,EU,Denmark,DK,DNK,208.0
+North America,,Dominica,DM,DMA,212.0
+North America,,Dominican Republic,DO,DOM,214.0
+South America,SA,Ecuador,EC,ECU,218.0
+North America,,El Salvador,SV,SLV,222.0
+Africa,AF,Equatorial Guinea,GQ,GNQ,226.0
+Africa,AF,Ethiopia,ET,ETH,231.0
+Africa,AF,Eritrea,ER,ERI,232.0
+Europe,EU,Estonia,EE,EST,233.0
+Europe,EU,Faroe Islands,FO,FRO,234.0
+South America,SA,Falkland Islands (Malvinas),FK,FLK,238.0
+Antarctica,AN,South Georgia and the South Sandwich Islands,GS,SGS,239.0
+Oceania,OC,Fiji,FJ,FJI,242.0
+Europe,EU,Finland,FI,FIN,246.0
+Europe,EU,Åland Islands,AX,ALA,248.0
+Europe,EU,France,FR,FRA,250.0
+South America,SA,French Guiana,GF,GUF,254.0
+Oceania,OC,French Polynesia,PF,PYF,258.0
+Antarctica,AN,French Southern Territories,TF,ATF,260.0
+Africa,AF,Djibouti,DJ,DJI,262.0
+Africa,AF,Gabon,GA,GAB,266.0
+Europe,EU,Georgia,GE,GEO,268.0
+Asia,AS,Georgia,GE,GEO,268.0
+Africa,AF,Gambia,GM,GMB,270.0
+Asia,AS,Palestinian Territory,PS,PSE,275.0
+Europe,EU,Germany,DE,DEU,276.0
+Africa,AF,Ghana,GH,GHA,288.0
+Europe,EU,Gibraltar,GI,GIB,292.0
+Oceania,OC,Kiribati,KI,KIR,296.0
+Europe,EU,Greece,GR,GRC,300.0
+North America,,Greenland,GL,GRL,304.0
+North America,,Grenada,GD,GRD,308.0
+North America,,Guadeloupe,GP,GLP,312.0
+Oceania,OC,Guam,GU,GUM,316.0
+North America,,Guatemala,GT,GTM,320.0
+Africa,AF,Guinea,GN,GIN,324.0
+South America,SA,Guyana,GY,GUY,328.0
+North America,,Haiti,HT,HTI,332.0
+Antarctica,AN,Heard Island and McDonald Islands,HM,HMD,334.0
+Europe,EU,Holy See (Vatican City State),VA,VAT,336.0
+North America,,Honduras,HN,HND,340.0
+Asia,AS,Hong Kong,HK,HKG,344.0
+Europe,EU,Hungary,HU,HUN,348.0
+Europe,EU,Iceland,IS,ISL,352.0
+Asia,AS,India,IN,IND,356.0
+Asia,AS,Indonesia,ID,IDN,360.0
+Asia,AS,Iran,IR,IRN,364.0
+Asia,AS,Iraq,IQ,IRQ,368.0
+Europe,EU,Ireland,IE,IRL,372.0
+Asia,AS,Israel,IL,ISR,376.0
+Europe,EU,Italy,IT,ITA,380.0
+Africa,AF,Cote d'Ivoire,CI,CIV,384.0
+North America,,Jamaica,JM,JAM,388.0
+Asia,AS,Japan,JP,JPN,392.0
+Europe,EU,Kazakhstan,KZ,KAZ,398.0
+Asia,AS,Kazakhstan,KZ,KAZ,398.0
+Asia,AS,Jordan,JO,JOR,400.0
+Africa,AF,Kenya,KE,KEN,404.0
+Asia,AS,South Korea,KR,KOR,410.0
+Asia,AS,Kuwait,KW,KWT,414.0
+Asia,AS,Kyrgyz Republic,KG,KGZ,417.0
+Asia,AS,Lao People's Democratic Republic,LA,LAO,418.0
+Asia,AS,Lebanon,LB,LBN,422.0
+Africa,AF,Lesotho,LS,LSO,426.0
+Europe,EU,Latvia,LV,LVA,428.0
+Africa,AF,Liberia,LR,LBR,430.0
+Africa,AF,Libyan Arab Jamahiriya,LY,LBY,434.0
+Europe,EU,Liechtenstein,LI,LIE,438.0
+Europe,EU,Lithuania,LT,LTU,440.0
+Europe,EU,Luxembourg,LU,LUX,442.0
+Asia,AS,Macao,MO,MAC,446.0
+Africa,AF,Madagascar,MG,MDG,450.0
+Africa,AF,Malawi,MW,MWI,454.0
+Asia,AS,Malaysia,MY,MYS,458.0
+Asia,AS,Maldives,MV,MDV,462.0
+Africa,AF,Mali,ML,MLI,466.0
+Europe,EU,Malta,MT,MLT,470.0
+North America,,Martinique,MQ,MTQ,474.0
+Africa,AF,Mauritania,MR,MRT,478.0
+Africa,AF,Mauritius,MU,MUS,480.0
+North America,,Mexico,MX,MEX,484.0
+Europe,EU,Monaco,MC,MCO,492.0
+Asia,AS,Mongolia,MN,MNG,496.0
+Europe,EU,Moldova,MD,MDA,498.0
+Europe,EU,Montenegro,ME,MNE,499.0
+North America,,Montserrat,MS,MSR,500.0
+Africa,AF,Morocco,MA,MAR,504.0
+Africa,AF,Mozambique,MZ,MOZ,508.0
+Asia,AS,Oman,OM,OMN,512.0
+Africa,AF,Namibia,,NAM,516.0
+Oceania,OC,Nauru,NR,NRU,520.0
+Asia,AS,Nepal,NP,NPL,524.0
+Europe,EU,Netherlands,NL,NLD,528.0
+North America,,Netherlands Antilles,AN,ANT,530.0
+North America,,Curaçao,CW,CUW,531.0
+North America,,Aruba,AW,ABW,533.0
+North America,,Sint Maarten (Netherlands),SX,SXM,534.0
+North America,,Bonaire,BQ,BES,535.0
+Oceania,OC,New Caledonia,NC,NCL,540.0
+Oceania,OC,Vanuatu,VU,VUT,548.0
+Oceania,OC,New Zealand,NZ,NZL,554.0
+North America,,Nicaragua,NI,NIC,558.0
+Africa,AF,Niger,NE,NER,562.0
+Africa,AF,Nigeria,NG,NGA,566.0
+Oceania,OC,Niue,NU,NIU,570.0
+Oceania,OC,Norfolk Island,NF,NFK,574.0
+Europe,EU,Norway,NO,NOR,578.0
+Oceania,OC,Northern Mariana Islands,MP,MNP,580.0
+Oceania,OC,United States Minor Outlying Islands,UM,UMI,581.0
+North America,,United States Minor Outlying Islands,UM,UMI,581.0
+Oceania,OC,Micronesia,FM,FSM,583.0
+Oceania,OC,Marshall Islands,MH,MHL,584.0
+Oceania,OC,Palau,PW,PLW,585.0
+Asia,AS,Pakistan,PK,PAK,586.0
+North America,,Panama,PA,PAN,591.0
+Oceania,OC,Papua New Guinea,PG,PNG,598.0
+South America,SA,Paraguay,PY,PRY,600.0
+South America,SA,Peru,PE,PER,604.0
+Asia,AS,Philippines,PH,PHL,608.0
+Oceania,OC,Pitcairn Islands,PN,PCN,612.0
+Europe,EU,Poland,PL,POL,616.0
+Europe,EU,Portugal,PT,PRT,620.0
+Africa,AF,Guinea-Bissau,GW,GNB,624.0
+Asia,AS,Timor-Leste,TL,TLS,626.0
+North America,,Puerto Rico,PR,PRI,630.0
+Asia,AS,Qatar,QA,QAT,634.0
+Africa,AF,Reunion,RE,REU,638.0
+Europe,EU,Romania,RO,ROU,642.0
+Asia,AS,Russia,RU,RUS,643.0
+Africa,AF,Rwanda,RW,RWA,646.0
+North America,,Saint Barthelemy,BL,BLM,652.0
+Africa,AF,Saint Helena,SH,SHN,654.0
+North America,,Saint Kitts and Nevis,KN,KNA,659.0
+North America,,Anguilla,AI,AIA,660.0
+North America,,Saint Lucia,LC,LCA,662.0
+North America,,Saint Martin,MF,MAF,663.0
+North America,,Saint Pierre and Miquelon,PM,SPM,666.0
+North America,,Saint Vincent and the Grenadines,VC,VCT,670.0
+Europe,EU,San Marino,SM,SMR,674.0
+Africa,AF,Sao Tome and Principe,ST,STP,678.0
+Asia,AS,Saudi Arabia,SA,SAU,682.0
+Africa,AF,Senegal,SN,SEN,686.0
+Europe,EU,Serbia,RS,SRB,688.0
+Africa,AF,Seychelles,SC,SYC,690.0
+Africa,AF,Sierra Leone,SL,SLE,694.0
+Asia,AS,Singapore,SG,SGP,702.0
+Europe,EU,Slovakia,SK,SVK,703.0
+Asia,AS,Vietnam,VN,VNM,704.0
+Europe,EU,Slovenia,SI,SVN,705.0
+Africa,AF,Somalia,SO,SOM,706.0
+Africa,AF,South Africa,ZA,ZAF,710.0
+Africa,AF,Zimbabwe,ZW,ZWE,716.0
+Europe,EU,Spain,ES,ESP,724.0
+Africa,AF,South Sudan,SS,SSD,728.0
+Africa,AF,Western Sahara,EH,ESH,732.0
+Africa,AF,Sudan,SD,SDN,736.0
+South America,SA,Suriname,SR,SUR,740.0
+Europe,EU,Svalbard & Jan Mayen Islands,SJ,SJM,744.0
+Africa,AF,Swaziland,SZ,SWZ,748.0
+Europe,EU,Sweden,SE,SWE,752.0
+Europe,EU,Switzerland,CH,CHE,756.0
+Asia,AS,Syrian Arab Republic,SY,SYR,760.0
+Asia,AS,Tajikistan,TJ,TJK,762.0
+Asia,AS,Thailand,TH,THA,764.0
+Africa,AF,Togo,TG,TGO,768.0
+Oceania,OC,Tokelau,TK,TKL,772.0
+Oceania,OC,Tonga,TO,TON,776.0
+North America,,Trinidad and Tobago,TT,TTO,780.0
+Asia,AS,United Arab Emirates,AE,ARE,784.0
+Africa,AF,Tunisia,TN,TUN,788.0
+Asia,AS,Turkey,TR,TUR,792.0
+Asia,AS,Turkmenistan,TM,TKM,795.0
+North America,,Turks and Caicos Islands,TC,TCA,796.0
+Oceania,OC,Tuvalu,TV,TUV,798.0
+Africa,AF,Uganda,UG,UGA,800.0
+Europe,EU,Ukraine,UA,UKR,804.0
+Europe,EU,Macedonia,MK,MKD,807.0
+Africa,AF,Egypt,EG,EGY,818.0
+Europe,EU,UK,GB,GBR,826.0
+Europe,EU,Guernsey,GG,GGY,831.0
+Europe,EU,Jersey,JE,JEY,832.0
+Europe,EU,Isle of Man,IM,IMN,833.0
+Africa,AF,Tanzania,TZ,TZA,834.0
+North America,,USA,US,USA,840.0
+North America,,United States Virgin Islands,VI,VIR,850.0
+Africa,AF,Burkina Faso,BF,BFA,854.0
+South America,SA,Uruguay,UY,URY,858.0
+Asia,AS,Uzbekistan,UZ,UZB,860.0
+South America,SA,Venezuela,VE,VEN,862.0
+Oceania,OC,Wallis and Futuna,WF,WLF,876.0
+Oceania,OC,Samoa,WS,WSM,882.0
+Asia,AS,Yemen,YE,YEM,887.0
+Africa,AF,Zambia,ZM,ZMB,894.0
+Oceania,OC,Disputed Territory,XX,,
+Asia,AS,Iraq-Saudi Arabia Neutral Zone,XE,,
+Asia,AS,United Nations Neutral Zone,XD,,
+Asia,AS,Spratly Islands,XS,,
