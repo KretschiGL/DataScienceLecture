@@ -1,0 +1,192 @@
+{
+    "0": {
+        "Jahr": 1981,
+        "LKW (CH)": 160000,
+        "LKW(Ausland)": 152000
+    },
+    "1": {
+        "Jahr": 1982,
+        "LKW (CH)": 195000,
+        "LKW(Ausland)": 200000
+    },
+    "2": {
+        "Jahr": 1983,
+        "LKW (CH)": 219000,
+        "LKW(Ausland)": 231000
+    },
+    "3": {
+        "Jahr": 1984,
+        "LKW (CH)": 199000,
+        "LKW(Ausland)": 233000
+    },
+    "4": {
+        "Jahr": 1985,
+        "LKW (CH)": 236000,
+        "LKW(Ausland)": 254000
+    },
+    "5": {
+        "Jahr": 1986,
+        "LKW (CH)": 260000,
+        "LKW(Ausland)": 305000
+    },
+    "6": {
+        "Jahr": 1987,
+        "LKW (CH)": 292000,
+        "LKW(Ausland)": 330000
+    },
+    "7": {
+        "Jahr": 1988,
+        "LKW (CH)": 307000,
+        "LKW(Ausland)": 361000
+    },
+    "8": {
+        "Jahr": 1989,
+        "LKW (CH)": 305000,
+        "LKW(Ausland)": 394000
+    },
+    "9": {
+        "Jahr": 1990,
+        "LKW (CH)": 325000,
+        "LKW(Ausland)": 408000
+    },
+    "10": {
+        "Jahr": 1991,
+        "LKW (CH)": 339000,
+        "LKW(Ausland)": 460000
+    },
+    "11": {
+        "Jahr": 1992,
+        "LKW (CH)": 355000,
+        "LKW(Ausland)": 492000
+    },
+    "12": {
+        "Jahr": 1993,
+        "LKW (CH)": 367000,
+        "LKW(Ausland)": 539000
+    },
+    "13": {
+        "Jahr": 1994,
+        "LKW (CH)": 380000,
+        "LKW(Ausland)": 605000
+    },
+    "14": {
+        "Jahr": 1995,
+        "LKW (CH)": 381000,
+        "LKW(Ausland)": 666000
+    },
+    "15": {
+        "Jahr": 1996,
+        "LKW (CH)": 401000,
+        "LKW(Ausland)": 720000
+    },
+    "16": {
+        "Jahr": 1997,
+        "LKW (CH)": 428000,
+        "LKW(Ausland)": 716000
+    },
+    "17": {
+        "Jahr": 1998,
+        "LKW (CH)": 432000,
+        "LKW(Ausland)": 803000
+    },
+    "18": {
+        "Jahr": 1999,
+        "LKW (CH)": 441000,
+        "LKW(Ausland)": 876000
+    },
+    "19": {
+        "Jahr": 2000,
+        "LKW (CH)": 434000,
+        "LKW(Ausland)": 970000
+    },
+    "20": {
+        "Jahr": 2001,
+        "LKW (CH)": 365000,
+        "LKW(Ausland)": 1014000
+    },
+    "21": {
+        "Jahr": 2002,
+        "LKW (CH)": 313000,
+        "LKW(Ausland)": 938000
+    },
+    "22": {
+        "Jahr": 2003,
+        "LKW (CH)": 333000,
+        "LKW(Ausland)": 957000
+    },
+    "23": {
+        "Jahr": 2004,
+        "LKW (CH)": 377000,
+        "LKW(Ausland)": 879000
+    },
+    "24": {
+        "Jahr": 2005,
+        "LKW (CH)": 353000,
+        "LKW(Ausland)": 851000
+    },
+    "25": {
+        "Jahr": 2006,
+        "LKW (CH)": 348000,
+        "LKW(Ausland)": 832000
+    },
+    "26": {
+        "Jahr": 2007,
+        "LKW (CH)": 371000,
+        "LKW(Ausland)": 892000
+    },
+    "27": {
+        "Jahr": 2008,
+        "LKW (CH)": 380000,
+        "LKW(Ausland)": 895000
+    },
+    "28": {
+        "Jahr": 2009,
+        "LKW (CH)": 366000,
+        "LKW(Ausland)": 814000
+    },
+    "29": {
+        "Jahr": 2010,
+        "LKW (CH)": 357000,
+        "LKW(Ausland)": 878000
+    },
+    "30": {
+        "Jahr": 2011,
+        "LKW (CH)": 363000,
+        "LKW(Ausland)": 857000
+    },
+    "31": {
+        "Jahr": 2012,
+        "LKW (CH)": 340000,
+        "LKW(Ausland)": 811000
+    },
+    "32": {
+        "Jahr": 2013,
+        "LKW (CH)": 321000,
+        "LKW(Ausland)": 728000
+    },
+    "33": {
+        "Jahr": 2014,
+        "LKW (CH)": 313000,
+        "LKW(Ausland)": 719000
+    },
+    "34": {
+        "Jahr": 2015,
+        "LKW (CH)": 301000,
+        "LKW(Ausland)": 708000
+    },
+    "35": {
+        "Jahr": 2016,
+        "LKW (CH)": 289000,
+        "LKW(Ausland)": 686000
+    },
+    "36": {
+        "Jahr": 2017,
+        "LKW (CH)": 284000,
+        "LKW(Ausland)": 670000
+    },
+    "37": {
+        "Jahr": 2018,
+        "LKW (CH)": 284000,
+        "LKW(Ausland)": 657000
+    }
+}
